@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Profile Image
+//  TJProfileImage
 //
-//  Created by Tejas Ardeshna on 02/05/17.
+//  Created by Tejas Ardeshna on 03/05/17.
 //  Copyright © 2017 Tejas Ardeshna. All rights reserved.
 //
 

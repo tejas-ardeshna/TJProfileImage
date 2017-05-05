@@ -1,13 +1,13 @@
 //
-//  ProfileImage.swift
-//  Profile Image
+//  TJProfileImage.swift
+//  TJProfileImage
 //
 //  Created by Tejas Ardeshna on 02/05/17.
 //  Copyright © 2017 Tejas Ardeshna. All rights reserved.
 //
 
 import UIKit
-@IBDesignable class ProfileImage:UIImageView {
+@IBDesignable class TJProfileImage:UIImageView {
     
     @IBInspectable var dashedBorder: Bool = false {
         didSet {

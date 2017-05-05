@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Profile Image.xcodeproj">
+      location = "self:TJProfileImage.xcodeproj">
    </FileRef>
 </Workspace>
