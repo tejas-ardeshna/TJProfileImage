@@ -65,7 +65,6 @@ Tejas Ardeshna – [@tejas_ardeshna](https://twitter.com/dbader_org) – tejasar
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/tejas-ardeshna/github-link](https://github.com/dbader/)
 
 
 
