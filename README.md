@@ -61,7 +61,7 @@ We would love you for the contribution to **TJProfileImage**, check the ``LICENS
 
 ## Meta
 
-Tejas Ardeshna – [@tejas_ardeshna](https://twitter.com/dbader_org) – tejasardeshna@gmail.com
+Tejas Ardeshna – [@tejas_ardeshna](https://twitter.com/tejas_ardeshna) – tejasardeshna@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
