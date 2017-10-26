@@ -55,6 +55,10 @@ $ pod install
 1. Download and drop ```TJProfileImage.swift``` in your project.  
 2. Congratulations!  
 
+## Implementation 
+
+Just set subclass of your UITextField to TJProfileImage and let the magic happen. 
+
 ## Contribute
 
 We would love you for the contribution to **TJProfileImage**, check the ``LICENSE`` file for more info.
