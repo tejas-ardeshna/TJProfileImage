@@ -57,7 +57,7 @@ $ pod install
 
 ## Implementation 
 
-Just set subclass of your UITextField to TJProfileImage and let the magic happen. 
+Just set class of your UITextField to TJProfileImage and let the magic happen. 
 
 ## Contribute
 
