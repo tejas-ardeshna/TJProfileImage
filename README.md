@@ -59,6 +59,16 @@ $ pod install
 
 Just set class of your UITextField to TJProfileImage and let the magic happen. 
 
+```swift
+import TJProfileImage
+@IBOutlet var imgView: TJProfileImage!
+
+imgView.dashedBorder  = true           // shows dashed border instead of plain
+imgView.isCircular    = true           // makes image view in round shape
+imgView.cornerRadious = 5              // you can set custom corner radious also. IF you set isCircular then it will neglate this corner radious
+imgView.borderColor   = UIColor.green  // border color
+imgView.borderWidth   = 2              // border width
+```
 ## Contribute
 
 We would love you for the contribution to **TJProfileImage**, check the ``LICENSE`` file for more info.
