@@ -19,7 +19,7 @@ import UIKit
             self.setNeedsLayout()
         }
     }
-    @IBInspectable var cornerRadious: CGFloat = 5 {
+    @IBInspectable var cornerRadius: CGFloat = 5 {
         didSet {
             self.setNeedsLayout()
         }
@@ -70,7 +70,7 @@ import UIKit
             shapeLayer.lineDashPattern = [6,3]
         }
         shapeLayer.path = UIBezierPath(roundedRect: shapeRect, cornerRadius: isCircular ? CGFloat(self.frame.size.height / 2.0) :  cornerRadious).cgPath
-        self.layer.cornerRadius = isCircular ? CGFloat(self.frame.size.height / 2.0) :  cornerRadious
+        self.layer.cornerRadius = isCircular ? CGFloat(self.frame.size.height / 2.0) :  cornerRadius
         self.layer.masksToBounds = true
         self.layer.addSublayer(shapeLayer)
         //self.layer.insertSublayer(shapeLayer, at: 0)
